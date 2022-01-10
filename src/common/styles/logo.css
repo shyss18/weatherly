@@ -1,0 +1,11 @@
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.logo {
+  color: aliceblue;
+  font-weight: 500;
+  font-size: 48px;
+}

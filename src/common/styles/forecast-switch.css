@@ -1,0 +1,36 @@
+.forecast-switch-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.forecast-switch {
+  display: flex;
+  text-align: center;
+  border: 3px solid #00b4cc;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 20px;
+  width: 120px;
+}
+
+.forecast-daily {
+  width: 60px;
+  text-decoration: none;
+  color: black;
+}
+
+.forecast-daily:hover {
+  color: white;
+  background-color: #00b4cc;
+}
+
+.forecast-weekly {
+  width: 60px;
+  text-decoration: none;
+  color: black;
+}
+
+.forecast-weekly:hover {
+  color: white;
+  background-color: #00b4cc;
+}
